@@ -87,7 +87,6 @@ $mainMinHeight: calc(100vh - (#{$headerHeight} + #{$footerHeight} + 51px));
   }
   #footer {
     margin-top: 50px;
-    background: $footerBg;
     box-sizing: border-box;
     border-top: 1px solid $borderColorPrimary;
     color: $fontColorPrimary;
